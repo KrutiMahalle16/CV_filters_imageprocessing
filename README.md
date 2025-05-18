@@ -50,5 +50,13 @@ Visualize the results using Matplotlib
 Compare the outcomes to analyze the strengths of each filter
 
 
+### Conclusion
+
+By analyzing the filtered images, you can clearly see how:
+Gaussian filter smoothens and reduces random noise
+Sobel filter emphasizes the edges and contours
+Median filter effectively removes impulse noise without blurring edges
+This project helps build a foundational understanding of classical filtering techniques in image processing.
+
 
 
