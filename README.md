@@ -38,6 +38,17 @@ Matplotlib: For visualizing the filtered images
 * Result: Effective in removing salt-and-pepper noise while preserving edges
 
   
+### Usage
+
+Load an image using OpenCV
+
+Apply each of the filters using OpenCV functions:
+cv2.GaussianBlur()
+cv2.Sobel()
+cv2.medianBlur()
+Visualize the results using Matplotlib
+Compare the outcomes to analyze the strengths of each filter
+
 
 
 
