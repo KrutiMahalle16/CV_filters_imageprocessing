@@ -11,6 +11,12 @@ To explore and understand how different image filters affect digital images by:
 * Detecting edges using Sobel filtering
 * Removing noise using Median filtering
 
+### Technologies Used
+
+OpenCV: For image processing operations
+NumPy: For numerical computations
+Matplotlib: For visualizing the filtered images
+
 ## Filters Overview
 
 ### 1. Gaussian Filter
@@ -30,6 +36,8 @@ To explore and understand how different image filters affect digital images by:
 * Purpose: **Noise removal**
 * Mechanism: Replaces each pixel's value with the median value of its neighboring pixels
 * Result: Effective in removing salt-and-pepper noise while preserving edges
+
+  
 
 
 
